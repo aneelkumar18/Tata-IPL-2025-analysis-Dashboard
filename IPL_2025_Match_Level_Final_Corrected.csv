@@ -1,0 +1,75 @@
+Match_ID,Match_Number,Match_Date,City,Venue,Team1,Team2,Toss_Winner,Toss_Decision,Winner,Win_By_Runs,Win_By_Wickets,Result,Stage,Status
+1473438,1,2025-03-22,Kolkata,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,0,7,win,League Stage,Completed
+1473439,2,2025-03-23,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,44,0,win,League Stage,Completed
+1473440,3,2025-03-23,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,0,4,win,League Stage,Completed
+1473441,4,2025-03-24,Visakhapatnam,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Delhi Capitals,0,1,win,League Stage,Completed
+1473442,5,2025-03-25,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,Gujarat Titans,field,Punjab Kings,11,0,win,League Stage,Completed
+1473443,6,2025-03-26,Guwahati,"Barsapara Cricket Stadium, Guwahati",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,8,win,League Stage,Completed
+1473444,7,2025-03-27,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,field,Lucknow Super Giants,0,5,win,League Stage,Completed
+1473445,8,2025-03-28,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Royal Challengers Bengaluru,50,0,win,League Stage,Completed
+1473446,9,2025-03-29,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Gujarat Titans,36,0,win,League Stage,Completed
+1473447,10,2025-03-30,Visakhapatnam,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,0,7,win,League Stage,Completed
+1473448,11,2025-03-30,Guwahati,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,6,0,win,League Stage,Completed
+1473449,12,2025-03-31,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,0,8,win,League Stage,Completed
+1473450,13,2025-04-01,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Punjab Kings,0,8,win,League Stage,Completed
+1473451,14,2025-04-02,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,field,Gujarat Titans,0,8,win,League Stage,Completed
+1473452,15,2025-04-03,Kolkata,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,80,0,win,League Stage,Completed
+1473453,16,2025-04-04,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,Lucknow Super Giants,Mumbai Indians,field,Lucknow Super Giants,12,0,win,League Stage,Completed
+1473454,17,2025-04-05,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,25,0,win,League Stage,Completed
+1473455,18,2025-04-05,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,50,0,win,League Stage,Completed
+1473457,19,2025-04-06,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,field,Gujarat Titans,0,7,win,League Stage,Completed
+1473458,20,2025-04-07,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,12,0,win,League Stage,Completed
+1473456,21,2025-04-08,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Lucknow Super Giants,4,0,win,League Stage,Completed
+1473459,22,2025-04-08,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,18,0,win,League Stage,Completed
+1473460,23,2025-04-09,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Gujarat Titans,58,0,win,League Stage,Completed
+1473461,24,2025-04-10,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Delhi Capitals,0,6,win,League Stage,Completed
+1473462,25,2025-04-11,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,0,8,win,League Stage,Completed
+1473463,26,2025-04-12,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,field,Lucknow Super Giants,0,6,win,League Stage,Completed
+1473464,27,2025-04-12,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,0,8,win,League Stage,Completed
+1473465,28,2025-04-13,Jaipur,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,0,9,win,League Stage,Completed
+1473466,29,2025-04-13,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,12,0,win,League Stage,Completed
+1473467,30,2025-04-14,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,Chennai Super Kings,0,5,win,League Stage,Completed
+1473468,31,2025-04-15,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,16,0,win,League Stage,Completed
+1473469,32,2025-04-16,Delhi,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,0,0,tie,League Stage,Completed
+1473470,33,2025-04-17,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,0,4,win,League Stage,Completed
+1473471,34,2025-04-18,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Punjab Kings,0,5,win,League Stage,Completed
+1473472,35,2025-04-19,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Delhi Capitals,Gujarat Titans,field,Gujarat Titans,0,7,win,League Stage,Completed
+1473473,36,2025-04-19,Jaipur,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,bat,Lucknow Super Giants,2,0,win,League Stage,Completed
+1473474,37,2025-04-20,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,0,7,win,League Stage,Completed
+1473475,38,2025-04-20,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,0,9,win,League Stage,Completed
+1473476,39,2025-04-21,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,field,Gujarat Titans,39,0,win,League Stage,Completed
+1473477,40,2025-04-22,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Delhi Capitals,0,8,win,League Stage,Completed
+1473478,41,2025-04-23,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,0,7,win,League Stage,Completed
+1473479,42,2025-04-24,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Royal Challengers Bengaluru,11,0,win,League Stage,Completed
+1473480,43,2025-04-25,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,5,win,League Stage,Completed
+1473481,44,2025-04-26,Kolkata,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,No Result,0,0,no result,League Stage,No Result
+1473482,45,2025-04-27,Mumbai,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,field,Mumbai Indians,54,0,win,League Stage,Completed
+1473483,46,2025-04-27,Delhi,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,0,6,win,League Stage,Completed
+1473484,47,2025-04-28,Jaipur,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Rajasthan Royals,0,8,win,League Stage,Completed
+1473485,48,2025-04-29,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,14,0,win,League Stage,Completed
+1473486,49,2025-04-30,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,4,win,League Stage,Completed
+1473487,50,2025-05-01,Jaipur,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,100,0,win,League Stage,Completed
+1473488,51,2025-05-02,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,field,Gujarat Titans,38,0,win,League Stage,Completed
+1473489,52,2025-05-03,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,Royal Challengers Bengaluru,2,0,win,League Stage,Completed
+1473490,53,2025-05-04,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,1,0,win,League Stage,Completed
+1473491,54,2025-05-04,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,field,Punjab Kings,37,0,win,League Stage,Completed
+1473492,55,2025-05-05,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,No Result,0,0,no result,League Stage,No Result
+1473493,56,2025-05-06,Mumbai,"Wankhede Stadium, Mumbai",Gujarat Titans,Mumbai Indians,Gujarat Titans,field,Gujarat Titans,0,3,win,League Stage,Completed
+1473494,57,2025-05-07,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,0,2,win,League Stage,Completed
+1589258,58,2025-05-17,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Kolkata Knight Riders,Not Available in Source,Not Available in Source,No Result,0,0,abandoned,League Stage,Abandoned
+1473497,59,2025-05-18,Jaipur,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,10,0,win,League Stage,Completed
+1473498,60,2025-05-18,Delhi,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,Gujarat Titans,field,Gujarat Titans,0,10,win,League Stage,Completed
+1473499,61,2025-05-19,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,6,win,League Stage,Completed
+1473500,62,2025-05-20,Delhi,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,0,6,win,League Stage,Completed
+1473501,63,2025-05-21,Mumbai,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,59,0,win,League Stage,Completed
+1473502,64,2025-05-22,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,Lucknow Super Giants,33,0,win,League Stage,Completed
+1473503,65,2025-05-23,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,42,0,win,League Stage,Completed
+1485779,66,2025-05-24,Jaipur,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,0,6,win,League Stage,Completed
+1473504,67,2025-05-25,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Chennai Super Kings,83,0,win,League Stage,Completed
+1473505,68,2025-05-25,Delhi,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,110,0,win,League Stage,Completed
+1473506,69,2025-05-26,Jaipur,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,0,7,win,League Stage,Completed
+1473507,70,2025-05-27,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,0,6,win,League Stage,Completed
+1473508,Q1,2025-05-29,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,0,8,win,Qualifier 1,Completed
+1473509,EL,2025-05-30,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Mumbai Indians,Gujarat Titans,Mumbai Indians,bat,Mumbai Indians,20,0,win,Eliminator,Completed
+1473510,Q2,2025-06-01,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,0,5,win,Qualifier 2,Completed
+1473511,F,2025-06-03,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,Royal Challengers Bengaluru,6,0,win,Final,Completed
